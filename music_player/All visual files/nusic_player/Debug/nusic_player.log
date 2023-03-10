@@ -1,0 +1,22 @@
+﻿  AuxLib.cpp
+  Player.cpp
+  PlayList.cpp
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\PlayList.cpp(1037,3): warning C4551: function call missing argument list
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\PlayList.cpp(1127,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Library.cpp
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\Library.cpp(67,10): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\Library.cpp(210,35): warning C4101: 'ex': unreferenced local variable
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\Library.cpp(739,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\Library.cpp(741,35): warning C4101: 'ex': unreferenced local variable
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\Library.cpp(765,36): warning C4101: 'ex': unreferenced local variable
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\Library.cpp(794,36): warning C4101: 'ex': unreferenced local variable
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\Library.cpp(866,36): warning C4101: 'ex': unreferenced local variable
+  PlayListOps.cpp
+  Search.cpp
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\Search.cpp(219,10): warning C4018: '>': signed/unsigned mismatch
+  Song.cpp
+  UserInterface.cpp
+  Generating Code...
+C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\nusic_player\PlayList.cpp(1065): warning C4715: 'Deleted::GetSongObjectBySongName': not all control paths return a value
+  nusic_player.vcxproj -> C:\Users\Owner\Desktop\study\oop\Final project\nusic_player\Debug\nusic_player.lib
